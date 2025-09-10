@@ -29,7 +29,7 @@ The game features a red-themed interface with playing cards and game status indi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/ericdreyes/BlackJoker.git
+   git clone https://github.com/riCODEre/BlackJoker.git
    ```
 2. Make sure you have Python installed
 3. Navigate to the project directory:
